@@ -1,0 +1,19 @@
+{
+  "name": "el_ahorcado_v1.0",
+  "version": "1.0.0",
+  "description": "Juego el ahorcado",
+  "main": "index.js",
+  "scripts": {
+    "test": "\"test\""
+  },
+  "git repository":"ahorcado",
+  "keywords": [
+    "ahorcado",
+    "\"juego",
+    "El",
+    "Ahorcado\"",
+    "juego"
+  ],
+  "author": "Jhozmer Ramírez",
+  "license": "ISC"
+}
